@@ -1,0 +1,2 @@
+23/4/19 - The project "Real Time Face Detection Application " has started.
+        as if for now we have tried to do some brain-storming for our basic program
