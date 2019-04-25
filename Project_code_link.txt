@@ -1,0 +1,5 @@
+You can get the idea of making face detection application by watching this video on youtube
+
+link is here:
+
+https://www.youtube.com/watch?v=TkltjvF3CRM
