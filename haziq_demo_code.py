@@ -1,1 +1,1 @@
-print("This is my inial demo code")
+print("This is my intial demo code")
