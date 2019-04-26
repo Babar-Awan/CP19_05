@@ -1,0 +1,1 @@
+print("main bht alag hoon")
