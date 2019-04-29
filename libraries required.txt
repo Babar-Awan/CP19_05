@@ -1,2 +1,4 @@
 OpenCV
-CasCode
+Numpy
+CasCode/Dlib
+Tkinter for GUI
