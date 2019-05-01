@@ -1,0 +1,8 @@
+The core difference is:
+
+DLib is a C++ library/toolkit that contains machine learning algorithms, including computer vision.
+OpenCV is a C/C++ library of functions dealing with real-time computer vision.
+Both the libraries are powerful and really efficient. They are available cross platform as well.
+
+OpenCV has wrappers in various languages such as C++, Python and Java. 
+DLib has a Python API.
