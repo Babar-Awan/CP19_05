@@ -1,5 +1,8 @@
-1) OpenCv
-2) Numpy
-3)HarCasCode/Dlib
-4) Tkinter For Gui
-5) Maybe Algorithm Of Whole Project
+Libraries :
+
+
+1- OpenCV
+2- Numpy
+3- CasCode/Dlib
+4- Tkinter for GUI
+5- Datetime for Save data in real time
