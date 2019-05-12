@@ -1,4 +1,8 @@
-OpenCV
-Numpy
-CasCode/Dlib
-Tkinter for GUI
+Libraries :
+
+
+1- OpenCV
+2- Numpy
+3- CasCode/Dlib
+4- Tkinter for GUI
+5- Datetime for Save data in real time

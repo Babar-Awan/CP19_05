@@ -1,5 +1,5 @@
 1) OpenCv
 2) Numpy
-3)CasCode/Dlib
+3)HarCasCode/Dlib
 4) Tkinter For Gui
 5) Maybe Algorithm Of Whole Project

@@ -1,5 +1,5 @@
 GUI frame (basic structure) : Farooq Arman
 GUI advance (compiling) : Hassan Gohar 
-OpenCV Library : Arsalan Ahmed
+OpenCV , Numpy , Datetime Library : Arsalan Ahmed
 Dlib Library : Haziq 
-Numpy (Integrating / Finalizing): Babar Awan
+Finalizing: Babar Awan
